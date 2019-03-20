@@ -12,6 +12,7 @@ There are crib sheets for the following classes:
 * CS 168 - Introduction to the Internet: Architecture and Protocols
 * CS 170 - Efficient Algorithms and Intractable Problems
 * CS 182 - Designing, Visualizing, and Understanding Deep Neural Networks
-* CS 188 - Introduction to Machine Learning
+* CS 188 - Introduction to Artificial Intelligence
+* CS 189 - Introduction to Machine Learning
 * EE 16A - Designing Information Devices and Systems I
 * Math 53 - Multivariable Calculus
