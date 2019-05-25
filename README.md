@@ -5,7 +5,7 @@ more comprehensive as I gradually became a better student.
 
 There are crib sheets for the following classes:
 * CS 61B - Data Structures
-* CS 61C - Machine Structures
+* CS 61C - Great Ideas in Computer Architecture (Machine Structures)
 * CS 70 - Discrete Mathematics and Probability Theory
 * CS 161 - Computer Security
 * CS 162 - Operating Systems and System Programming
